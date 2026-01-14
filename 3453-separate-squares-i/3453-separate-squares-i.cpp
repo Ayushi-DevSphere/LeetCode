@@ -1,41 +1,38 @@
 class Solution {
 public:
     double separateSquares(vector<vector<int>>& squares) {
-        long double total = 0;
-        long double minY = LLONG_MAX;
-        long double maxY = LLONG_MIN;
-        
+        long double totalArea = 0;
+        long double low = 1e18, high = -1e18;
+
+        // Compute total area and bounds
         for (auto &sq : squares) {
             long double y = sq[1];
             long double l = sq[2];
-            total += l * l;
-            minY = min(minY, y);
-            maxY = max(maxY, y + l);
+            totalArea += l * l;
+            low = min(low, y);
+            high = max(high, y + l);
         }
 
-        long double half = total / 2.0;
-        long double low = minY, high = maxY;
+        long double target = totalArea / 2.0;
 
-        for (int it = 0; it < 80; ++it) {
+        // Binary search
+        for (int i = 0; i < 80; i++) {
             long double mid = (low + high) / 2.0;
-            long double areaBelow = 0.0;
+            long double areaBelow = 0;
 
             for (auto &sq : squares) {
                 long double y = sq[1];
                 long double l = sq[2];
-                if (mid <= y) {
-                } else if (mid >= y + l) {
-                    areaBelow += l * l;
-                } else {
-                    areaBelow += (mid - y) * l;
+
+                if (mid > y) {
+                    areaBelow += min(mid - y, l) * l;
                 }
             }
 
-            if (areaBelow < half) {
+            if (areaBelow < target)
                 low = mid;
-            } else {
+            else
                 high = mid;
-            }
         }
 
         return (double)((low + high) / 2.0);
