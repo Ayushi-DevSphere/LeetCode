@@ -8,6 +8,7 @@ I push LeetCode questions here.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0396-rotate-function](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -98,6 +99,7 @@ I push LeetCode questions here.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0396-rotate-function](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -170,6 +172,7 @@ I push LeetCode questions here.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0396-rotate-function](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
