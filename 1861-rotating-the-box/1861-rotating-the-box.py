@@ -1,15 +1,16 @@
 class Solution:
-    def rotateTheBox(self, box: List[List[str]]) -> List[List[str]]:
-        r, c=len(box), len(box[0])
-        rotate=[['.']*r for _ in range(c)]
-        for i, row in enumerate(box):
-            bottom=c-1
-            for j in range(c-1, -1, -1):
-                if row[j]=='#':
-                    rotate[bottom][r-1-i]='#'
-                    bottom-=1
-                elif row[j]=='*':
-                    rotate[j][r-1-i]='*'
-                    bottom=j-1
-        return rotate
-        
+    def rotateTheBox(self, grid: List[List[str]]) -> List[List[str]]:
+        rows, cols = len(grid), len(grid[0])
+        res = [['.'] * rows for _ in range(cols)]
+
+        for r in range(rows):
+            p = cols - 1
+            for c in range(cols - 1, -1, -1):
+                if grid[r][c] == '*':
+                    res[c][rows - 1 - r] = '*'
+                    p = c - 1
+                elif grid[r][c] == '#':
+                    res[p][rows - 1 - r] = '#'
+                    p -= 1
+
+        return res
