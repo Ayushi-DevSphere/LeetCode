@@ -8,6 +8,7 @@ I push LeetCode questions here.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0048-rotate-image](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0396-rotate-function](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -132,6 +133,7 @@ I push LeetCode questions here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
