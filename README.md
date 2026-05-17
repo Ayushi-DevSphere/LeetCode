@@ -13,6 +13,7 @@ I push LeetCode questions here.
 | [0238-product-of-array-except-self](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0396-rotate-function](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1306-jump-game-iii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -258,6 +259,7 @@ I push LeetCode questions here.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1306-jump-game-iii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -272,6 +274,7 @@ I push LeetCode questions here.
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1306-jump-game-iii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
