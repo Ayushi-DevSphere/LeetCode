@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/jump-game-iv">1345. Jump Game IV</a></h2><h3>Hard</h3><hr><p>Given an array of&nbsp;integers <code>arr</code>, you are initially positioned at the first index of the array.</p>
+<h2><a href="https://leetcode.com/problems/jump-game-iv">1447. Jump Game IV</a></h2><h3>Hard</h3><hr><p>Given an array of&nbsp;integers <code>arr</code>, you are initially positioned at the first index of the array.</p>
 
 <p>In one step you can jump from index <code>i</code> to index:</p>
 
