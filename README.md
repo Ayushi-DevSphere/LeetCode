@@ -33,6 +33,7 @@ I push LeetCode questions here.
 | [2540-minimum-common-value](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -166,6 +167,7 @@ I push LeetCode questions here.
 | [1345-jump-game-iv](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -317,4 +319,8 @@ I push LeetCode questions here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 <!---LeetCode Topics End-->
