@@ -28,6 +28,7 @@ I push LeetCode questions here.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2126-destroying-asteroids](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2540-minimum-common-value](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -186,6 +187,7 @@ I push LeetCode questions here.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2126-destroying-asteroids](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -233,6 +235,7 @@ I push LeetCode questions here.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2126-destroying-asteroids](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2751-robot-collisions/) | Hard |
