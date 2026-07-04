@@ -4,8 +4,8 @@ I push LeetCode questions here.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0048-rotate-image](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -81,8 +81,8 @@ I push LeetCode questions here.
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -99,8 +99,8 @@ I push LeetCode questions here.
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -126,8 +126,8 @@ I push LeetCode questions here.
 | [3643-flip-square-submatrix-vertically](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -151,8 +151,8 @@ I push LeetCode questions here.
 | [3614-process-string-with-special-operations-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0396-rotate-function](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -175,13 +175,13 @@ I push LeetCode questions here.
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -197,16 +197,16 @@ I push LeetCode questions here.
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
@@ -228,13 +228,13 @@ I push LeetCode questions here.
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -248,27 +248,29 @@ I push LeetCode questions here.
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Minimum Spanning Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0788-rotated-digits/) | Medium |
@@ -288,8 +290,8 @@ I push LeetCode questions here.
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -297,8 +299,8 @@ I push LeetCode questions here.
 | [3620-network-recovery-pathways](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
@@ -317,8 +319,8 @@ I push LeetCode questions here.
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0061-rotate-list](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
@@ -330,15 +332,15 @@ I push LeetCode questions here.
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
@@ -352,100 +354,102 @@ I push LeetCode questions here.
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0796-rotate-string](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1306-jump-game-iii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1306-jump-game-iii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0061-rotate-list](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3161-block-placement-queries](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3161-block-placement-queries](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/Ayushi-DevSphere/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
