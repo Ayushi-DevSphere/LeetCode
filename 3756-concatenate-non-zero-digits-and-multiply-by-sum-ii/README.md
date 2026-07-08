@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii">3756. Concatenate Non-Zero Digits and Multiply by Sum II</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> of length <code>m</code> consisting of digits. You are also given a 2D integer array <code>queries</code>, where <code>queries[i] = [l<sub>i</sub>, r<sub>i</sub>]</code>.</p>
+<h2><a href="https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii">4136. Concatenate Non-Zero Digits and Multiply by Sum II</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> of length <code>m</code> consisting of digits. You are also given a 2D integer array <code>queries</code>, where <code>queries[i] = [l<sub>i</sub>, r<sub>i</sub>]</code>.</p>
 
 <p>For each <code>queries[i]</code>, extract the <strong><span data-keyword="substring-nonempty">substring</span></strong> <code>s[l<sub>i</sub>..r<sub>i</sub>]</code>. Then, perform the following:</p>
 
