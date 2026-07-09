@@ -1,11 +1,11 @@
 class Solution:
     def pathExistenceQueries(self, n: int, nums: List[int], maxDiff: int, queries: List[List[int]]) -> List[bool]:
-        comp = [0] * n
+        qz, prev, cid=len(queries), -1, 0
+        comp=[-1]*n
+        for i, curr in enumerate(nums):
+            cid+=(prev+maxDiff<curr)
+            comp[i]=cid
+            prev=curr
+        return [ comp[x]==comp[y] for x, y in queries]
 
-        for i in range(1, n):
-            if nums[i] - nums[i - 1] <= maxDiff:
-                comp[i] = comp[i - 1]
-            else:
-                comp[i] = comp[i - 1] + 1
-
-        return [comp[u] == comp[v] for u, v in queries]
+        
