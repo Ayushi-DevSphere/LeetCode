@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd">3336. Find the Number of Subsequences With Equal GCD</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd">3608. Find the Number of Subsequences With Equal GCD</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>Your task is to find the number of pairs of <strong>non-empty</strong> <span data-keyword="subsequence-array">subsequences</span> <code>(seq1, seq2)</code> of <code>nums</code> that satisfy the following conditions:</p>
 
