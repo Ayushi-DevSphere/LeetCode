@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-of-gcd-of-formed-pairs">3867. Sum of GCD of Formed Pairs</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/sum-of-gcd-of-formed-pairs">4242. Sum of GCD of Formed Pairs</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code>.</p>
 
 <p>Construct an array <code>prefixGcd</code> where for each index <code>i</code>:</p>
 
